@@ -23,6 +23,7 @@ La portada debe incluir:
 
 - Título completo.
 - Nombres y apellidos de todas las personas autoras.
+- Perfil de LinkedIn de cada persona autora, cuando exista y autorice su publicación.
 - Asignatura, evento o programa.
 - Institución o comunidad.
 - Nombre de la docente, facilitadora o persona responsable, cuando corresponda.
@@ -34,6 +35,7 @@ Ejemplo:
 Cómo razonan los agentes inteligentes modernos
 
 María Pérez · José González
+LinkedIn: https://www.linkedin.com/in/perfil-ejemplo
 Sistemas Inteligentes
 Maestría en TIC - Universidad del Zulia
 Docente: Dra. Yaskelly Yedra
@@ -41,6 +43,8 @@ Maracaibo, agosto de 2026
 ```
 
 No incluyas cédulas, números de estudiante, direcciones, teléfonos personales ni correos privados en las diapositivas públicas.
+
+LinkedIn es opcional. Cada autora o autor debe confirmar que desea mostrar ese enlace públicamente.
 
 ## 3. Diapositiva final obligatoria
 
@@ -52,7 +56,7 @@ templates/AUTHORSHIP_SLIDE.md
 
 Debe contener:
 
-- Personas autoras.
+- Personas autoras y perfiles de LinkedIn autorizados.
 - Contexto académico o comunitario.
 - Autorización para publicar.
 - Condiciones de reutilización.
