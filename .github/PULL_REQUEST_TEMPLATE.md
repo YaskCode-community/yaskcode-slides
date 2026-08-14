@@ -15,7 +15,7 @@
 
 ## Personas autoras
 
-<!-- Incluya los nombres completos tal como deben mostrarse públicamente. -->
+<!-- Incluya los nombres completos y, con autorización, los perfiles de LinkedIn que deben mostrarse públicamente. -->
 
 ## Lista de comprobación
 
@@ -31,6 +31,7 @@
 ### Autoría y publicación
 
 - [ ] Todas las personas autoras aparecen en la portada.
+- [ ] Los perfiles de LinkedIn incluidos pertenecen a las personas autoras y cuentan con autorización para mostrarse públicamente.
 - [ ] Añadí la diapositiva final de autoría y publicación.
 - [ ] Todas las personas autoras autorizaron la publicación.
 - [ ] Completé el formulario de autorización.
