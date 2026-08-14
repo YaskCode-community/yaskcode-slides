@@ -17,6 +17,7 @@ description_en: >-
 authors:
   - name: "Nombre y apellido"
     github: "usuario-opcional"
+    linkedin: "https://www.linkedin.com/in/perfil-opcional"
     orcid: "ORCID opcional"
     affiliation: "Institución o comunidad"
     publication_consent: true
