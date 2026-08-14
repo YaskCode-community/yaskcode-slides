@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yaskcode-community.github.io/yaskcode-slides/sitemap.xml
