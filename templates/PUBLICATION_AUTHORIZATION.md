@@ -18,11 +18,11 @@
 
 Incluya a todas las personas autoras.
 
-| Nombre completo | Identificador de GitHub (opcional) | Autoriza publicación pública |
-|---|---|---|
-| | | Sí / No |
-| | | Sí / No |
-| | | Sí / No |
+| Nombre completo | GitHub (opcional) | LinkedIn (opcional) | Autoriza publicar nombre y LinkedIn |
+|---|---|---|---|
+| | | | Sí / No |
+| | | | Sí / No |
+| | | | Sí / No |
 
 La persona que envía la contribución declara que obtuvo la conformidad de todas las personas indicadas.
 
@@ -33,7 +33,7 @@ Las personas autoras:
 1. Declaran que la presentación es un trabajo propio, salvo los materiales de terceros debidamente identificados.
 2. Conservan la propiedad intelectual sobre su contenido original.
 3. Autorizan a YaskCode Community a alojar, mostrar, indexar y permitir la descarga gratuita de la presentación mediante YaskCode Slides.
-4. Autorizan el uso del título, resumen, miniatura y nombres de las personas autoras para catalogación y divulgación de la presentación.
+4. Autorizan el uso del título, resumen, miniatura, nombres y perfiles de LinkedIn indicados para catalogación, reconocimiento y divulgación de la presentación.
 5. Entienden que esta autorización no permite a YaskCode Community atribuir el trabajo a otras personas.
 6. Entienden que no se aplicará una licencia abierta ni se autorizará el uso comercial sin consentimiento adicional.
 7. Confirman que revisaron la presentación para eliminar datos personales, credenciales e información confidencial.
