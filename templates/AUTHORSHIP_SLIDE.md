@@ -8,9 +8,9 @@ Añade esta diapositiva al final de toda presentación enviada a YaskCode Slides
 
 **Personas autoras**
 
-- Nombre y apellido
-- Nombre y apellido
-- Nombre y apellido
+- Nombre y apellido - LinkedIn: https://www.linkedin.com/in/perfil
+- Nombre y apellido - LinkedIn: https://www.linkedin.com/in/perfil
+- Nombre y apellido - LinkedIn: https://www.linkedin.com/in/perfil
 
 Este trabajo fue elaborado por el **Equipo [número o nombre]** para **[asignatura, evento o actividad]**, perteneciente a **[institución o comunidad]**.
 
@@ -42,6 +42,7 @@ Las fuentes, imágenes, marcas y recursos de terceros se encuentran identificado
 ## Recomendaciones de diseño
 
 - Mantén los nombres completos y legibles.
+- Incluye LinkedIn solo cuando la persona autora tenga perfil y autorice mostrarlo públicamente.
 - No incluyas firmas manuscritas, cédulas, teléfonos ni correos personales.
 - Utiliza un tamaño de letra suficiente para lectura en pantalla.
 - No conviertas esta declaración en texto oculto o ilegible.
