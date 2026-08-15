@@ -1,0 +1,61 @@
+schema_version: "1.0"
+title: "Lanzamiento de Google Developer Group Caracas"
+slug: "lanzamiento-gdg-caracas"
+description_es: >-
+  Ficha preliminar del catálogo YaskCode Slides. La descripción editorial se
+  completará después de verificar autoría, permiso y derechos.
+description_en: >-
+  Preliminary YaskCode Slides catalog record pending editorial review.
+authors:
+  - name: "Yaskelly Yedra"
+    github: ""
+    linkedin: "https://www.linkedin.com/in/yaskelly/"
+    orcid: ""
+    affiliation: "GDG Caracas"
+    publication_consent: false
+collection: "gdg-caracas"
+content_type: "presentation"
+language: "es"
+date: "2026-02-25"
+slide_count: 21
+context:
+  type: "presentation"
+  name: "GDG Caracas"
+  institution: ""
+  instructor_or_host: ""
+  location: ""
+topics:
+  - "gdg-caracas"
+  - "comunidad"
+  - "google-technologies"
+files:
+  pdf: ""
+  thumbnail: ""
+  editable_source_public: false
+  editable_source_url: ""
+links:
+  canonical_url: "https://yaskcode-community.github.io/yaskcode-slides/presentations/lanzamiento-gdg-caracas/"
+  discussion_url: ""
+  video_url: ""
+  repository_url: "https://github.com/YaskCode-community/yaskcode-slides/tree/main/presentations/gdg-caracas/lanzamiento-gdg-caracas"
+  references_url: ""
+rights:
+  rights_holder: "Por confirmar"
+  publication_authorized: false
+  publication_scope: ""
+  license: "No license assigned"
+  commercial_reuse_allowed: false
+  derivative_works_allowed: false
+  third_party_materials_present: true
+  third_party_materials_attributed: false
+ai_use:
+  used: false
+  tools: []
+  purposes: []
+  disclosure: "Pendiente de declaración."
+  human_review_completed: false
+review:
+  status: "pending-rights-review"
+  reviewed_by: ""
+  reviewed_on: ""
+  notes: "El PDF no se publica hasta completar la revisión."

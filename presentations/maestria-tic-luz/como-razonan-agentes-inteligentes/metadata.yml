@@ -1,0 +1,61 @@
+schema_version: "1.0"
+title: "Cómo razonan los agentes inteligentes modernos"
+slug: "como-razonan-agentes-inteligentes"
+description_es: >-
+  Ficha preliminar del catálogo YaskCode Slides. La descripción editorial se
+  completará después de verificar autoría, permiso y derechos.
+description_en: >-
+  Preliminary YaskCode Slides catalog record pending editorial review.
+authors:
+  - name: "Equipo de Trabajo 3 - nombres en verificación"
+    github: ""
+    linkedin: ""
+    orcid: ""
+    affiliation: "Sistemas Inteligentes - Maestría en TIC, Universidad del Zulia"
+    publication_consent: false
+collection: "maestria-tic-luz"
+content_type: "presentation"
+language: "es"
+date: "2026-08-12"
+slide_count: 8
+context:
+  type: "presentation"
+  name: "Sistemas Inteligentes - Maestría en TIC, Universidad del Zulia"
+  institution: ""
+  instructor_or_host: ""
+  location: ""
+topics:
+  - "razonamiento"
+  - "llm"
+  - "agentes-inteligentes"
+files:
+  pdf: ""
+  thumbnail: ""
+  editable_source_public: false
+  editable_source_url: ""
+links:
+  canonical_url: "https://yaskcode-community.github.io/yaskcode-slides/presentations/como-razonan-agentes-inteligentes/"
+  discussion_url: ""
+  video_url: ""
+  repository_url: "https://github.com/YaskCode-community/yaskcode-slides/tree/main/presentations/maestria-tic-luz/como-razonan-agentes-inteligentes"
+  references_url: ""
+rights:
+  rights_holder: "Por confirmar"
+  publication_authorized: false
+  publication_scope: ""
+  license: "No license assigned"
+  commercial_reuse_allowed: false
+  derivative_works_allowed: false
+  third_party_materials_present: true
+  third_party_materials_attributed: false
+ai_use:
+  used: false
+  tools: []
+  purposes: []
+  disclosure: "Pendiente de declaración."
+  human_review_completed: false
+review:
+  status: "pending-authorship"
+  reviewed_by: ""
+  reviewed_on: ""
+  notes: "El PDF no se publica hasta completar la revisión."

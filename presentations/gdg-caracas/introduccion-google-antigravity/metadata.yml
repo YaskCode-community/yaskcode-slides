@@ -1,0 +1,61 @@
+schema_version: "1.0"
+title: "Introducción a Google Antigravity: primeros pasos"
+slug: "introduccion-google-antigravity"
+description_es: >-
+  Ficha preliminar del catálogo YaskCode Slides. La descripción editorial se
+  completará después de verificar autoría, permiso y derechos.
+description_en: >-
+  Preliminary YaskCode Slides catalog record pending editorial review.
+authors:
+  - name: "Roger R. Carvajal"
+    github: ""
+    linkedin: ""
+    orcid: ""
+    affiliation: "GDG Caracas"
+    publication_consent: false
+collection: "gdg-caracas"
+content_type: "presentation"
+language: "es"
+date: "2026-08-01"
+slide_count: 26
+context:
+  type: "presentation"
+  name: "GDG Caracas"
+  institution: ""
+  instructor_or_host: ""
+  location: ""
+topics:
+  - "google-antigravity"
+  - "ia-agentica"
+  - "mcp"
+files:
+  pdf: ""
+  thumbnail: ""
+  editable_source_public: false
+  editable_source_url: ""
+links:
+  canonical_url: "https://yaskcode-community.github.io/yaskcode-slides/presentations/introduccion-google-antigravity/"
+  discussion_url: ""
+  video_url: ""
+  repository_url: "https://github.com/YaskCode-community/yaskcode-slides/tree/main/presentations/gdg-caracas/introduccion-google-antigravity"
+  references_url: ""
+rights:
+  rights_holder: "Por confirmar"
+  publication_authorized: false
+  publication_scope: ""
+  license: "No license assigned"
+  commercial_reuse_allowed: false
+  derivative_works_allowed: false
+  third_party_materials_present: true
+  third_party_materials_attributed: false
+ai_use:
+  used: false
+  tools: []
+  purposes: []
+  disclosure: "Pendiente de declaración."
+  human_review_completed: false
+review:
+  status: "pending-permission-and-privacy"
+  reviewed_by: ""
+  reviewed_on: ""
+  notes: "El PDF no se publica hasta completar la revisión."

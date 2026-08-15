@@ -1,0 +1,61 @@
+schema_version: "1.0"
+title: "Capitalizando nuestro potencial estratégico"
+slug: "capitalizando-potencial-estrategico"
+description_es: >-
+  Ficha preliminar del catálogo YaskCode Slides. La descripción editorial se
+  completará después de verificar autoría, permiso y derechos.
+description_en: >-
+  Preliminary YaskCode Slides catalog record pending editorial review.
+authors:
+  - name: "Yaskelly Yedra"
+    github: ""
+    linkedin: "https://www.linkedin.com/in/yaskelly/"
+    orcid: ""
+    affiliation: "International Women's Day - Women Techmakers 2026"
+    publication_consent: false
+collection: "women-techmakers"
+content_type: "presentation"
+language: "es"
+date: "2026-01-01"
+slide_count: 39
+context:
+  type: "presentation"
+  name: "International Women's Day - Women Techmakers 2026"
+  institution: ""
+  instructor_or_host: ""
+  location: ""
+topics:
+  - "women-in-technology"
+  - "liderazgo"
+  - "inteligencia-artificial"
+files:
+  pdf: ""
+  thumbnail: ""
+  editable_source_public: false
+  editable_source_url: ""
+links:
+  canonical_url: "https://yaskcode-community.github.io/yaskcode-slides/presentations/capitalizando-potencial-estrategico/"
+  discussion_url: ""
+  video_url: ""
+  repository_url: "https://github.com/YaskCode-community/yaskcode-slides/tree/main/presentations/women-techmakers/capitalizando-potencial-estrategico"
+  references_url: ""
+rights:
+  rights_holder: "Por confirmar"
+  publication_authorized: false
+  publication_scope: ""
+  license: "No license assigned"
+  commercial_reuse_allowed: false
+  derivative_works_allowed: false
+  third_party_materials_present: true
+  third_party_materials_attributed: false
+ai_use:
+  used: false
+  tools: []
+  purposes: []
+  disclosure: "Pendiente de declaración."
+  human_review_completed: false
+review:
+  status: "pending-rights-review"
+  reviewed_by: ""
+  reviewed_on: ""
+  notes: "El PDF no se publica hasta completar la revisión."

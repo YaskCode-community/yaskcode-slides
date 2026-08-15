@@ -1,0 +1,88 @@
+# YaskCode Slides metadata template
+# Copy this file into the presentation folder as metadata.yml.
+# Remove instructional comments before submitting.
+
+schema_version: "1.0"
+
+title: "Título completo de la presentación"
+slug: "titulo-descriptivo-y-estable"
+
+description_es: >-
+  Resumen en español de aproximadamente 150 a 300 caracteres que explique
+  el contenido, el público y el valor educativo de la presentación.
+
+description_en: >-
+  Brief English summary for international discovery.
+
+authors:
+  - name: "Nombre y apellido"
+    github: "usuario-opcional"
+    linkedin: "https://www.linkedin.com/in/perfil-opcional"
+    orcid: "ORCID opcional"
+    affiliation: "Institución o comunidad"
+    publication_consent: true
+
+collection: "maestria-tic-luz"
+# Valores previstos:
+# maestria-tic-luz | gdg-caracas | women-techmakers | clases-yaskcode
+
+content_type: "presentation"
+language: "es"
+date: "YYYY-MM-DD"
+slide_count: 0
+
+context:
+  type: "course"
+  # course | event | workshop | talk | community
+  name: "Nombre de la asignatura, evento o actividad"
+  institution: "Institución o comunidad"
+  instructor_or_host: "Nombre de la persona responsable"
+  location: "Ciudad, país"
+
+topics:
+  - "inteligencia-artificial"
+  - "educacion"
+
+files:
+  pdf: "presentation.pdf"
+  thumbnail: "thumbnail.png"
+  editable_source_public: false
+  editable_source_url: ""
+
+links:
+  canonical_url: ""
+  discussion_url: ""
+  video_url: ""
+  repository_url: ""
+  references_url: ""
+
+rights:
+  rights_holder: "Personas autoras"
+  publication_authorized: true
+  publication_scope: "Alojamiento y consulta gratuita con fines educativos y de divulgación"
+  license: "All rights reserved"
+  commercial_reuse_allowed: false
+  derivative_works_allowed: false
+  third_party_materials_present: true
+  third_party_materials_attributed: true
+  trademark_notice: >-
+    Las marcas y logotipos pertenecen a sus respectivos titulares.
+
+ai_use:
+  used: false
+  tools: []
+  purposes: []
+  disclosure: "No se utilizó IA generativa."
+  human_review_completed: true
+
+accessibility:
+  descriptive_title: true
+  readable_contrast_reviewed: false
+  images_have_descriptions: false
+  reading_order_reviewed: false
+
+review:
+  status: "pending"
+  reviewed_by: ""
+  reviewed_on: ""
+  notes: ""
