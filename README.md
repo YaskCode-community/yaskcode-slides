@@ -1,55 +1,31 @@
-<div align="center">
-
 # YaskCode Slides
 
-### Presentaciones educativas para aprender, compartir y construir
-
-Catálogo público y cuidadosamente seleccionado de presentaciones, charlas y recursos de YaskCode Community.
-
-[![Catálogo](https://img.shields.io/badge/Explorar%20catálogo-FF6DB6?style=for-the-badge)](https://yaskcode-community.github.io/yaskcode-slides/)
-[![Discusiones](https://img.shields.io/badge/Discusiones-6C8CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/YaskCode-community/discussions)
-[![Contribuir](https://img.shields.io/badge/Contribuir-55C878?style=for-the-badge&logo=git&logoColor=white)](SUBMISSION_GUIDE.md)
-
-</div>
+Repositorio público para organizar, documentar y compartir presentaciones educativas y comunitarias vinculadas con YaskCode Community.
 
 ## Colecciones
 
-| Colección | Contenido |
-|---|---|
-| 🎓 [Maestría TIC-LUZ](presentations/maestria-tic-luz/) | Sistemas inteligentes, ingeniería del conocimiento, RAG y agentes |
-| 🚀 [GDG Caracas](presentations/gdg-caracas/) | Eventos, codelabs y tecnologías de Google |
-| 💜 [Women Techmakers](presentations/women-techmakers/) | Tecnología, liderazgo, diversidad e inclusión |
-| 💻 [Clases YaskCode](presentations/clases-yaskcode/) | Ingeniería de software, IA, datos, arquitectura y cloud |
+| Colección | Ruta | Estado |
+|---|---|---|
+| Clases y aprendizaje | `presentations/classes/` | Inicial |
+| GDG Caracas | `presentations/gdg-caracas/` | Inicial |
+| Maestría TIC-LUZ | `presentations/maestria-tic-luz/` | Inicial |
+| Women Techmakers | `presentations/women-techmakers/` | Inicial |
 
 ## Primer catálogo
 
 | Presentación | Colección | Estado |
 |---|---|---|
-| Ingeniería del conocimiento y RAG | Maestría TIC-LUZ | Metadatos en revisión |
-| Arquitectura de agentes inteligentes | Maestría TIC-LUZ | Autoría y permiso pendientes |
-| Cómo razonan los agentes inteligentes modernos | Maestría TIC-LUZ | Autoría y permiso pendientes |
-| Introducción a Google Antigravity | GDG Caracas | Permiso y privacidad pendientes |
-| Lanzamiento de GDG Caracas | GDG Caracas | Metadatos en revisión |
-| Capitalizando nuestro potencial estratégico | Women Techmakers | Metadatos en revisión |
+| Introducción a Google Antigravity | Clases y aprendizaje | Metadatos en revisión |
+| [Lanzamiento de GDG Caracas](https://yaskcode-community.github.io/yaskcode-slides/presentations/lanzamiento-gdg-caracas/) | GDG Caracas | Publicado mediante enlace oficial |
 
-Los archivos PDF se publicarán únicamente después de confirmar autoría, autorización, privacidad y derechos de terceros.
+Los PDF se publican o catalogan mediante enlaces oficiales únicamente después de confirmar autoría, autorización, privacidad y derechos.
 
-## Contribuir
+## Documentación
 
-Consulta:
+- [Política de publicación](POLICY.md)
+- [Cómo contribuir](CONTRIBUTING.md)
+- [Plantilla de metadatos](templates/presentation-metadata.yml)
 
-- [Guía de envío](SUBMISSION_GUIDE.md)
-- [Plantilla de metadatos](metadata-template.yml)
-- [Diapositiva de autoría](templates/AUTHORSHIP_SLIDE.md)
-- [Formulario de autorización](templates/PUBLICATION_AUTHORIZATION.md)
-- [Código de conducta](https://github.com/YaskCode-community/.github/blob/main/CODE_OF_CONDUCT.md)
+## Sitio público
 
-Las personas autoras conservan la propiedad intelectual. YaskCode Community no aplica una licencia abierta a una presentación sin autorización expresa.
-
----
-
-<div align="center">
-
-**YaskCode Slides** · Un proyecto de **YaskCode Community**
-
-</div>
+El catálogo se publica mediante GitHub Pages desde la carpeta `docs/`.

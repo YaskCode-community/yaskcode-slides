@@ -2,9 +2,9 @@
 
 Charlas, talleres y recursos relacionados con las actividades de Google Developer Group Caracas.
 
-## Presentaciones iniciales
+## Presentaciones
 
-- Introducción a Google Antigravity.
-- Lanzamiento de Google Developer Group Caracas.
+- Introducción a Google Antigravity — en revisión.
+- [Lanzamiento de Google Developer Group Caracas](https://yaskcode-community.github.io/yaskcode-slides/presentations/lanzamiento-gdg-caracas/) — publicado mediante enlace al recurso oficial de `gdg-caracas/resources`.
 
-> Los PDF se publicarán después de verificar autorización, privacidad y derechos.
+> Los materiales se publican o catalogan mediante enlaces únicamente después de verificar autoría, autorización, privacidad y derechos.
